@@ -1,6 +1,6 @@
 # > Objetivo (em andamento): 
 
-| Criar um curso Laravel para compartilhar conhecimento na Web. Focado em quem está começando em Php / Laravel
+| Criar um curso Laravel para compartilhar conhecimento. Focado em quem está começando em Php / Laravel
 
 > start the project
 
