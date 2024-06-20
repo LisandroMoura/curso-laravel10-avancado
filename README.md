@@ -1,4 +1,6 @@
-# > Laravel (10.3.3)
+# > Objetivo (em andamento): 
+
+| Criar um curso Laravel para compartilhar conhecimento na Web
 
 > start the project
 
