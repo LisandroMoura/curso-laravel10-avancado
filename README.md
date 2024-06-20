@@ -10,7 +10,7 @@ composer create-project laravel/laravel _curso-laravel10-avancado
 
 ## Curso  de laravel10 avançado
 
-Um super curso de laravel10 para quem quer aprender um pouco mais. Sabe aquele algo á mais que te torna profissional bom pra caramba.
+Um super curso de laravel10 para quem quer aprender um pouco mais. Aquele algo á mais que te torna profissional bom pra caramba.
 
 ## Auth Google
 
